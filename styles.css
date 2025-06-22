@@ -1,0 +1,32 @@
+section {
+    margin-bottom: 20px;
+}
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: "Lucida Console", Monaco, monospace;
+    line-height: 1.5;
+    text-align: justify;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+nav a {
+    color: darkcyan;
+    text-align: center;
+    text-decoration: none;
+}
+.note {
+    color: darkgray;
+    font-style: italic;
+}
+.broken-link {
+    text-decoration: line-through;
+    color: crimson;
+}
+.error-message {
+    color: crimson;
+}
