@@ -17,24 +17,34 @@ body {
     line-height: 1.5;
     text-align: justify;
 }
+
 nav {
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
 }
+
 nav a {
     color: darkcyan;
     text-align: center;
     text-decoration: none;
 }
+
+th,
+td {
+    padding-left: 10px;
+}
+
 .note {
     color: darkgray;
     font-style: italic;
 }
+
 .broken-link {
     text-decoration: line-through;
     color: crimson;
 }
+
 .error-message {
     color: crimson;
 }
