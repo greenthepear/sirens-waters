@@ -36,7 +36,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13">
+     inkscape:current-layer="layer3">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -124,11 +124,14 @@
        xlink:href="c_gcg.html"
        xlink:title="General Colonial Government"
        target=""
-       xlink:show="new">
+       xlink:show="new"
+       onmouseover="">
       <path
-         style="opacity:1;fill:#0000ff;stroke:#ffffff;stroke-width:4.78110592;stroke-dasharray:19.12442398, 4.78110599;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:#0000ff;stroke:#ffffff;stroke-width:4.78110592;stroke-dasharray:19.12442398, 4.78110599;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;transition: fill 0.3s ease;"
          d="m 566.92914,604.72443 18.89763,-113.38583 56.69293,-56.69291 94.48818,-75.59055 18.89764,-37.79528 94.48819,-18.89764 56.69291,56.69292 56.69291,75.59055 -56.69291,37.79528 -75.59055,37.79527 -18.89764,56.69292 v 75.59056 l -56.69291,-18.89765 -75.59055,-18.89764 -56.69292,18.89764 z"
-         id="path3" />
+         id="path3"
+         onmouseover="this.style.fill='#ffffff'"
+         onmouseout="this.style.fill='#0000ff'" />
     </a>
   </g>
   <g
@@ -143,9 +146,11 @@
        xlink:show="new"
        xlink:title="Free Anda Republic">
       <path
-         style="opacity:1;fill:#0000ff;stroke:#ffffff;stroke-width:4.78110592;stroke-dasharray:19.12442398, 4.78110599;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:#0000ff;stroke:#ffffff;stroke-width:4.78110592;stroke-dasharray:19.12442398, 4.78110599;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal; transition: fill 0.3s ease;"
          d="M 755.90552,321.25986 H 680.31497 L 642.5197,283.46458 604.72441,226.77167 v -56.69293 l 18.89764,-37.79527 H 755.90552 L 869.29135,75.590555 h 56.69291 v 56.692915 l -37.79528,56.69291 -18.89763,75.59057 -18.89764,37.79527 z"
-         id="path6" />
+         id="path6"
+         onmouseover="this.style.fill='#ffffff'"
+         onmouseout="this.style.fill='#0000ff'"/>
     </a>
   </g>
   <g
@@ -172,9 +177,11 @@
        xlink:title="Andan Nuclear Authority"
        xlink:show="new">
       <path
-         style="opacity:1;fill:#0000ff;stroke:#ffffff;stroke-width:4.78110592;stroke-dasharray:19.12442398, 4.78110599;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:#0000ff;stroke:#ffffff;stroke-width:4.78110592;stroke-dasharray:19.12442398, 4.78110599;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal; transition: fill 0.3s ease;"
          d="m 585.82677,491.3386 -56.69291,-37.79527 18.89764,-75.59056 56.69291,-18.89763 37.79529,37.79527 v 37.79528 z"
-         id="path4" />
+         id="path4"
+         onmouseover="this.style.fill='#ffffff'"
+         onmouseout="this.style.fill='#0000ff'"/>
     </a>
   </g>
   <g
